@@ -1,0 +1,26 @@
+site_name: zhelper 帮助文档
+theme:
+  name: material
+  custom_dir: overrides
+  language: zh
+  features:
+    - toc.integrate
+  palette:
+    primary: red
+
+extra_javascript:
+  - javascript/extra.js
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - zhelper search 简明教程: search/index.md
+  - zhelper Search 开发说明: search-dev/index.md
+  - zhelper API 规范: api/index.md
+  # - zhelper V5 使用教程: v5/index.md 
+  # - 秒传图文教程: mc/index.md 
+  # - IPFS 图文教程: ipfs/index.md 
+  # - BT 图文教程: bt/index.md 
