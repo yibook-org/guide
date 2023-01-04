@@ -17,10 +17,6 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
-  - zhelper search 简明教程: search/index.md
-  - zhelper Search 开发说明: search-dev/index.md
-  - zhelper API 规范: api/index.md
-  # - zhelper V5 使用教程: v5/index.md 
-  # - 秒传图文教程: mc/index.md 
-  # - IPFS 图文教程: ipfs/index.md 
-  # - BT 图文教程: bt/index.md 
+  - 一些TIPS: tips/index.md
+  - 电子书搜索网站: search/index.md
+  - 电子书工具网站: tool/index.md
