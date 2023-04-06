@@ -21,7 +21,7 @@ Z-Library 是世界上最大的在线图书馆，提供免费下载电子书籍�
 
 ![](./Snipaste_2023-04-06_22-06-55.png)
 
-#### 相关资料
+**相关资料**
 
 1. 与 Z-Library 相近的网站包括 [无产阶级图书管](https://library.proletarian.me/)，[LOREFREE](https://ebook2.lorefree.com/) 和 [LIBGEN](http://libgen.rs/)。
 2. 如果您需要更多镜像网站，可以访问 [镜像检测](http://mirror.yibook.org/)，包括 zlib 和 libgen 的镜像网站，且支持实时监测。
@@ -46,7 +46,7 @@ Z-Library 下位替代。这里也收集了三个网址。与 zlibrary 相比，
 
 ![](./2022-08-18-16-26-54.png)
 
-#### 相关资料
+**相关资料**
 
 1. 如果您需要更多镜像网站，可以访问 [镜像检测](http://mirror.yibook.org/)，包括 zlib 和 libgen 的镜像网站，且支持实时监测。
 
@@ -69,7 +69,7 @@ Z-Library 下位替代。这里也收集了三个网址。与 zlibrary 相比，
 **请注意，从超星下载书籍需要经过秒传转存、压缩包解密和转格式等一系列操作。[此处](https://ssdown.org/blog/quick/) 有更加详细的超星使用教程**，包括搜索、获取SS号、解密的全过程。可以作为参考。
 
 
-#### 相关资料
+**相关资料**
 
 1. [全国图书馆参考咨询联盟/超星电子书库研究分享](https://ssdown.org/)
 2. [秒传链接提取脚本](https://mengzonefire.code.misakanet.cn/rapid-upload-userscript-doc/)
@@ -88,7 +88,7 @@ Z-Library 下位替代。这里也收集了三个网址。与 zlibrary 相比，
 此外，科学出版社、机械工业出版社、人民邮电出版社等有自己专门的在线电子书平台，如果需要对应的电子书资源可以考虑使用，具体参考[出版社直供系列网站](https://yibook.org/tags/%E5%87%BA%E7%89%88%E7%A4%BE%E7%9B%B4%E4%BE%9B/)。有消息称此部分电子书能够通过软件获取全本，不能确保真实性。
 
 
-#### 相关资料
+**相关资料**
 
 1. [科学文库：高清PDF格式电子版教材及其解密](https://blog.yibook.org/post/sciencereading/)
 
