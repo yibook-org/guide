@@ -5,7 +5,7 @@
 
 > 我们强烈建议您在搜索任何书籍时，首先检查 zlibrary。
 
-Z-Library 是世界上最大的在线图书馆，提供免费下载电子书籍的服务。在去年年末之时，Z-Library 曾被美国执法机构查封。但是经过为维护人员的不懈努力，目前，Z-Library 已经通过其他网址恢复访问，并且更新了官方的 [TG 频道](https://t.me/zlibrary_official)。不幸的是，最新的网址在发布之后，很快国内便无法直接访问这些网站，需要使用其他工具来访问。所以下面的教程也分为两部分。
+Z-Library 是世界上最大的在线图书馆，提供免费下载电子书籍的服务。在去年年末之时，Z-Library 曾被美国执法机构查封。但是经过维护人员的不懈努力，目前，Z-Library 已经通过其他网址恢复访问，并且更新了官方的 [TG 频道](https://t.me/zlibrary_official)。不幸的是，最新的网址在发布之后，很快国内便无法直接访问这些网站，需要使用其他工具来访问。所以下面的教程也分为两部分。
 
 1. 如果你有访问官方网站的方法：请直接访问 [登录界面](https://singlelogin.me/)，**完成注册之后**，即可享受每日 10 本的下载额度，捐赠后可获得更多额度。
 2. 如果你没有此方法：请打开 [zlib镜像辅助工具](http://zlib.yibook.org/)，选择“访问”，即可借助**公共账号**访问 **zlibrary 镜像网站**。这意味着，你可以获取几乎**无限的下载量**，仅仅需要在回到辅助工具使用“切换”生成另外一个账户，但是也意味着你**不能使用捐赠、发送到邮箱、转格式等功能**。
@@ -23,7 +23,7 @@ Z-Library 是世界上最大的在线图书馆，提供免费下载电子书籍�
 
 **相关资料**
 
-1. 与 Z-Library 相近的网站包括 [无产阶级图书管](https://library.proletarian.me/)，[LOREFREE](https://ebook2.lorefree.com/) 和 [LIBGEN](http://libgen.rs/)。
+1. 与 Z-Library 相近的网站包括 [无产阶级图书馆](https://library.proletarian.me/)，[LOREFREE](https://ebook2.lorefree.com/) 和 [LIBGEN](http://libgen.rs/)。
 2. 如果您需要更多镜像网站，可以访问 [镜像检测](http://mirror.yibook.org/)，包括 zlib 和 libgen 的镜像网站，且支持实时监测。
 3. **如果您需要大量下载书籍，建议使用备份网站下载，不消耗额度**（备份网站的内容仅更新至 2022 年 12 月）：国内备份包括 [ylibrary](https://ylibrary.org/)、 [clibrary](https://clibrary.cn/) 和 [hallowlib](https://bk.hallowlib.org/)；国外备份（由 Pirate Library Mirror 项目发起人建立，**推荐**）：[annas-archive](https://annas-archive.org/)
 4. 部分 Z-Library 书籍需要使用 TOR 下载（您可能需要代理）。TOR官网 https://www.torproject.org/ ， z 图 tor 地址 http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/ 。具体教程参考 [本文](https://bbs.yibook.org/d/206-hui-fu-xia-zai-fang-shi-2-shi-yong-tor-xia-zai-z-library-zi-yuan/32)
